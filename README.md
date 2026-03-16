@@ -1,2 +1,3 @@
 # credit-card-fraud-detection
-&lt;CURRENTLY IN PROGRESS>
+
+Please be patient while I do the writeup for this project and final project hierarchy
