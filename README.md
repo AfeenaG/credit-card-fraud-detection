@@ -41,8 +41,8 @@ toronto-traffic-injury-risk-analysis
 ## Dataset
 The data set used was an open dataset "Credit Card Fraud Detection" https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTest.csv
 
-## Data Architecture
-![Architectural Flow](../Images/architecture.png)
+## Pipeline Architecture
+![Architectural Flow](../Images/Architecture.png)
 ## Analytical Approach
 The data contained a series of numerical, categorical data that needed to be transformed. Since the aim of this project is a binary classification, three models were analysed: SVM, Logistical regression, random forest.
 
@@ -99,14 +99,6 @@ Results are stored in a NoSQL database (e.g., MongoDB)
 
 - Predicted fraud label
 
-
-## System Architecture
-
-The system follows a pipeline architecture:
-
-Data Source → Streaming Engine → ML Model → Prediction Output → Database
-
-This design ensures scalability, flexibility, and real-time processing capability.
 
 ## Key Results
 
