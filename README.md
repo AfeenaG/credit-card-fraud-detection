@@ -1,4 +1,4 @@
-# Fraud Detection Using Machine Learning & Streaming
+# Fraud Detection Using Machine Learning, Streaming, MongoDB
 ## Project Overview
 This project focuses on building a scalable fraud detection system using machine learning and real-time data processing. The solution leverages historical transaction data to train predictive models capable of identifying fraudulent behavior, and then applies these models to streaming data to simulate real-time fraud detection.
 
