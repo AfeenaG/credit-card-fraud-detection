@@ -22,7 +22,7 @@ The goal of this project is to:
 
 By implementing a machine learning-based approach, the system can learn hidden patterns and adapt better to new fraud behaviors compared to traditional methods.
 
-# Project Structure
+## Project Structure
 
 ```text
 toronto-traffic-injury-risk-analysis
@@ -41,6 +41,8 @@ toronto-traffic-injury-risk-analysis
 ## Dataset
 The data set used was an open dataset "Credit Card Fraud Detection" https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTest.csv
 
+## Data Architecture
+![Architectural Flow](../images/architecture.png)
 ## Analytical Approach
 The data contained a series of numerical, categorical data that needed to be transformed. Since the aim of this project is a binary classification, three models were analysed: SVM, Logistical regression, random forest.
 
