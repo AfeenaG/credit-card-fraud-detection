@@ -51,7 +51,7 @@ Feature scaling applied where necessary
 
 Handling of class imbalance (fraud cases are rare) using appropriate techniques
 
-3.3 Model Development
+## Model Development
 
 Multiple machine learning models were trained and evaluated, including:
 
@@ -69,7 +69,7 @@ Performance was measured using:
 
 The best-performing model (Random Forest) achieved the highest AUC and was selected for deployment.
 
-3.4 Real-Time Streaming Pipeline
+## Real-Time Streaming Pipeline
 
 To simulate real-time fraud detection:
 
@@ -129,7 +129,7 @@ Enhance feature engineering with domain-specific insights
 
 - Apache Spark (PySpark)
 
-- Machine Learning (Scikit-learn)
+- Machine Learning (usine Pyspark libraries)
 
 - Streaming (Spark Structured Streaming)
 
