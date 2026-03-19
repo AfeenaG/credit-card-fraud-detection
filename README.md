@@ -42,7 +42,7 @@ toronto-traffic-injury-risk-analysis
 The data set used was an open dataset "Credit Card Fraud Detection" https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTest.csv
 
 ## Pipeline Architecture
-![Architectural Flow](../Images/Architecture.png)
+![Architectural Flow](/Images/Architecture.png)
 ## Analytical Approach
 The data contained a series of numerical, categorical data that needed to be transformed. Since the aim of this project is a binary classification, three models were analysed: SVM, Logistical regression, random forest.
 
